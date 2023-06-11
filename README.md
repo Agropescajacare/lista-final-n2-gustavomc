@@ -1,1 +1,1 @@
-# lista-final-n2-gustavomc
+as listas estão na pasta .vscode
