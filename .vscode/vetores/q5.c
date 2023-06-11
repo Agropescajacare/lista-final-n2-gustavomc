@@ -1,6 +1,5 @@
 
 #include <stdio.h>
-
 int main() {
     int vetor[8];
     int i, numero, posicao = -1;
